@@ -1,5 +1,4 @@
 import React from 'react';
-import FeatherIcon from "feather-icons-react";
 import RotatingIcon from '../../assets/rotate-icon.png'
 
 function Home(props) {

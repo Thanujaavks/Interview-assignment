@@ -1,7 +1,8 @@
-body{
+body {
     background: #010101;
     color: #fff;
 }
+
 .footer-section {
     background-color: #000;
     padding: 50px 0;
@@ -49,38 +50,38 @@ body{
     border-top: 1px solid #444;
     padding-top: 20px;
 }
-.company-content{
+
+.company-content {
     color: #656366;
 }
 
-.icons-contain{
-    /*border: 1px solid white;*/
+.icons-contain {
     background-color: #1c1c1c;
     padding: 10px;
     border-radius: 5px;
 }
-.icon-color{
+
+.icon-color {
     color: #aea6ae;
 }
 
-.copyright{
+.copyright {
     color: #656366;
 }
 
-.subscribe-container{
-    /*border: 1px solid white;*/
+.subscribe-container {
     background: linear-gradient(to right, #ff416c, #ff4b2b);
     border-radius: 10px;
 }
-.newsletter-form{
+
+.newsletter-form {
     background-color: white;
     padding: 8px;
     border-radius: 30px;
 }
+
 .email-input {
-    /*padding: 10px 15px;*/
     border-radius: 30px;
-    /*width: 300px;*/
     margin-right: -5px;
 }
 
@@ -243,36 +244,36 @@ body{
     color: #f48531;
 }
 
-.contact-para{
+.contact-para {
     color: #656366;
     font-size: 15px;
 }
 
-.navigation-container{
+.navigation-container {
     background: #010101;
 }
 
-.navigation-items{
+.navigation-items {
     color: white;
 }
 
-.nav-link:hover{
+.nav-link:hover {
     color: #ff6a3a;
 }
 
-.nav-link:hover:after{
+.nav-link:hover:after {
     color: #ff6a3a !important;
 }
 
-.navbar-nav .nav-link.active{
+.navbar-nav .nav-link.active {
     color: #ff4b2b;
 }
 
-.home-content{
+.home-content {
     color: #656366;
 }
 
-.home-header{
+.home-header {
     color: #c92939;
 }
 
@@ -281,7 +282,7 @@ body{
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    background-color: #f46; /* Similar to the red background in your image */
+    background-color: #f46;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -300,7 +301,7 @@ body{
     font-weight: bold;
     color: white;
     text-align: center;
-    animation: rotate 10s linear infinite; /* Rotation effect */
+    animation: rotate 10s linear infinite;
 }
 
 .icon-center {
@@ -317,6 +318,7 @@ body{
         transform: rotate(360deg);
     }
 }
+
 .rotating-image {
     animation: rotate 15s linear infinite;
     width: 150px;
@@ -361,18 +363,19 @@ body{
     margin-top: 20px;
     color: #ff4b2b;
 }
-.slick-dots li button:before{
+
+.slick-dots li button:before {
     color: #fff !important;
     margin-top: 20px !important;
     font-size: 12px !important
 }
 
-.slick-dots li.slick-active button:before{
+.slick-dots li.slick-active button:before {
 
     font-size: 14px !important;
 }
 
-.home-container{
+.home-container {
     background-image: url('assets/image.jpeg');
     height: calc(100vh - 170px);
     background-repeat: no-repeat;
@@ -384,11 +387,12 @@ body{
     transform: scale(1.1);
 }
 
-.testimonial{
+.testimonial {
     background: linear-gradient(45deg, #ff416c, #ff4b2b);
     padding: 40px 20px;
     border-radius: 30px;
 }
+
 .testimonial-card {
     color: #fff;
     padding: 20px;
@@ -421,15 +425,17 @@ body{
     gap: 20px;
 }
 
-.empower{
+.empower {
     font-weight: 900;
     line-height: 46px;
 }
+
 .rotate-container {
     position: absolute;
     right: 47px;
     bottom: 10px;
 }
-.cursor-pointer{
+
+.cursor-pointer {
     cursor: pointer;
 }

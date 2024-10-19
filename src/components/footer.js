@@ -56,7 +56,7 @@ function Footer(props) {
                         </div>
                     </div>
                     <div className={"col-md-2"}>
-                    <div>
+                        <div>
                             <h5>Support</h5>
                             <ul className="footer-links pt-4">
                                 <li className={"company-content"}>Help Center</li>

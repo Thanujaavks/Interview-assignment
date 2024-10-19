@@ -69,9 +69,6 @@ function Blog(props) {
                     </div>
                 </div>
             </div>
-            <div className="mt-5">
-
-            </div>
         </div>
     );
 }
